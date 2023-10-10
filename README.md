@@ -34,7 +34,7 @@
 
 ------
 ## Deploy 🚀
-- [![Heroku](https://img.shields.io/NOBITA-RDX/RDX-HELL-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
+- [![Heroku](https://img.shields.io/badge/RDX-HELL-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
 
 - [![Railway](https://img.shields.io/badge/RDX-HELL-Deploy%20On%20Railway-black?style=for-the-badge&logo=railway)](#Deploy-on-Railway)
 
