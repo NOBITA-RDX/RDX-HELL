@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>†hê ɾԃx Hêllẞø† 🇮🇳</b>
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɾԃx ɦɛʟʟɮօt ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -27,18 +27,18 @@
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
 ![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?&style=social&logo=hyper)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/hellbot_chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/its_hellbot)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/btz10r)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/+xWcg-WBN1oBjMjk1)
 
 [![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://hellbot.tech)
 
 ------
 ## Deploy 🚀
-- [![Heroku](https://img.shields.io/badge/HellBot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
+- [![Heroku](https://img.shields.io/NOBITA-RDX/RDX-HELL-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
 
-- [![Railway](https://img.shields.io/badge/HellBot-Deploy%20On%20Railway-black?style=for-the-badge&logo=railway)](#Deploy-on-Railway)
+- [![Railway](https://img.shields.io/badge/RDX-HELL-Deploy%20On%20Railway-black?style=for-the-badge&logo=railway)](#Deploy-on-Railway)
 
-- [![Locally](https://img.shields.io/badge/HellBot-Deploy%20Locally-black?style=for-the-badge&logo=linux)](#Deploy-Locally)
+- [![Locally](https://img.shields.io/badge/RDX-HELL-Deploy%20Locally-black?style=for-the-badge&logo=linux)](#Deploy-Locally)
 
 ------
 ## YouTube 📺
